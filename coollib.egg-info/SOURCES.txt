@@ -1,0 +1,8 @@
+MANIFEST.in
+README.txt
+setup.py
+coollib/__init__.py
+coollib.egg-info/PKG-INFO
+coollib.egg-info/SOURCES.txt
+coollib.egg-info/dependency_links.txt
+coollib.egg-info/top_level.txt
