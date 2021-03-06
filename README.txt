@@ -1,1 +1,1 @@
-nothing.
+The nothing & Everything library
